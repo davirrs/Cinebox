@@ -600,3 +600,59 @@
 [WrapWithProviderScope] 2025-08-13T16:51:25.694386 #15     _Timer._handleMessage (dart:isolate-patch/timer_impl.dart:441:5)
 [WrapWithProviderScope] 2025-08-13T16:51:25.694386 #16     _RawReceivePort._handleMessage (dart:isolate-patch/isolate_patch.dart:193:12)
 [WrapWithProviderScope] 2025-08-13T16:51:25.694386
+The request edit.getFixes failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:FileSystemException(path=C:\Users\davi5\OneDrive\Desktop\Cinebox\diff.txt; message=Failed to decode data using encoding 'utf-8')
+#0      _PhysicalFile.readAsStringSync (package:analyzer/file_system/physical_file_system.dart:154:7)
+#1      _OverlayFile.readAsStringSync (package:analyzer/file_system/overlay_file_system.dart:188:18)
+#2      FileSource.contentsFromFile (package:analyzer/source/file_source.dart:57:12)
+#3      FileSource.contents (package:analyzer/source/file_source.dart:43:12)
+#4      AnalysisSessionUtils.createResolverForFile (package:custom_lint_builder/src/client.dart:66:50)
+#5      _ClientAnalyzerPlugin._fileContext (package:custom_lint_builder/src/client.dart:430:38)
+<asynchronous suspension>
+#6      _ClientAnalyzerPlugin.handleEditGetFixes (package:custom_lint_builder/src/client.dart:604:21)
+<asynchronous suspension>
+#7      ServerPlugin._getResponse (package:analyzer_plugin/plugin/plugin.dart:562:18)
+<asynchronous suspension>
+#8      ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:597:18)
+<asynchronous suspension>
+
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request edit.getAssists failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:FileSystemException(path=C:\Users\davi5\OneDrive\Desktop\Cinebox\diff.txt; message=Failed to decode data using encoding 'utf-8')
+#0      _PhysicalFile.readAsStringSync (package:analyzer/file_system/physical_file_system.dart:154:7)
+#1      _OverlayFile.readAsStringSync (package:analyzer/file_system/overlay_file_system.dart:188:18)
+#2      FileSource.contentsFromFile (package:analyzer/source/file_source.dart:57:12)
+#3      FileSource.contents (package:analyzer/source/file_source.dart:43:12)
+#4      AnalysisSessionUtils.createResolverForFile (package:custom_lint_builder/src/client.dart:66:50)
+#5      _ClientAnalyzerPlugin.handleEditGetAssists (package:custom_lint_builder/src/client.dart:513:38)
+<asynchronous suspension>
+#6      ServerPlugin._getResponse (package:analyzer_plugin/plugin/plugin.dart:554:18)
+<asynchronous suspension>
+#7      ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:597:18)
+<asynchronous suspension>
+
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
