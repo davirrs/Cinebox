@@ -1,0 +1,1 @@
+ C:\\Users\\davi5\\OneDrive\\Desktop\\Cinebox\\.dart_tool\\flutter_build\\e1478bf1596337b325431708a4644f10\\native_assets.json: 

@@ -1,0 +1,14 @@
+/build/
+
+app.*.symbols
+
+app.*.map.json
+
+
+/android/app/debug
+/android/app/profile
+/android/app/release
+# FVM Version Cache
+.fvm/
+
+.env
