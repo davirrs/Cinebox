@@ -656,3 +656,1923 @@ at:
 #4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
 <asynchronous suspension>
 
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273:11)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234:22)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192:17)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 Plugin async_value_nullable_pattern threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 RangeError (length): Invalid value: Valid value range is empty: 0
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #0      List.[] (dart:core-patch/growable_array.dart)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-15T17:45:57.219157
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 Plugin async_value_nullable_pattern threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 RangeError (length): Invalid value: Valid value range is empty: 0
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #0      List.[] (dart:core-patch/growable_array.dart)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-15T17:45:57.221265
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 Plugin async_value_nullable_pattern threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 RangeError (length): Invalid value: Valid value range is empty: 0
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #0      List.[] (dart:core-patch/growable_array.dart)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-15T17:45:57.293336
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 Plugin async_value_nullable_pattern threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 RangeError (length): Invalid value: Valid value range is empty: 0
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #0      List.[] (dart:core-patch/growable_array.dart)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-15T17:45:57.294086
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 Plugin WrapWithConsumer threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 RangeError (length): Invalid value: Valid value range is empty: 0
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #0      List.[] (dart:core-patch/growable_array.dart)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[WrapWithConsumer] 2025-08-15T17:45:57.548394 <asynchronous suspension>
+[WrapWithConsumer] 2025-08-15T17:45:57.548394
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 Plugin WrapWithConsumer threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 RangeError (length): Invalid value: Valid value range is empty: 0
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #0      List.[] (dart:core-patch/growable_array.dart)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[WrapWithConsumer] 2025-08-15T17:45:57.549392 <asynchronous suspension>
+[WrapWithConsumer] 2025-08-15T17:45:57.549392
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 Plugin async_value_nullable_pattern threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 RangeError (length): Invalid value: Valid value range is empty: 0
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #0      List.[] (dart:core-patch/growable_array.dart)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-15T17:45:57.633072
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 Plugin async_value_nullable_pattern threw while analyzing C:\Users\davi5\OneDrive\Desktop\Cinebox\lib\data\services\local_storage\local_storage_service_impl.dart:
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 RangeError (length): Invalid value: Valid value range is empty: 0
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #0      List.[] (dart:core-patch/growable_array.dart)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #1      ResolverVisitor.checkForArgumentTypesNotAssignableInList (package:analyzer/src/generated/resolver.dart:501:73)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #2      ResolverVisitor.visitDotShorthandInvocation (package:analyzer/src/generated/resolver.dart:2306:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #3      DotShorthandInvocationImpl.resolveExpression (package:analyzer/src/dart/ast/ast.dart:5463:14)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #4      ResolverVisitor.dispatchExpression (package:analyzer/src/generated/resolver.dart:745:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #5      TypeAnalyzer.analyzeExpression (package:_fe_analyzer_shared/src/type_inference/type_analyzer.dart:568:43)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #6      ResolverVisitor.analyzeExpression (package:analyzer/src/generated/resolver.dart:452:18)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #7      ResolverVisitor.visitExpressionStatement (package:analyzer/src/generated/resolver.dart:2511:5)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #8      ExpressionStatementImpl.accept (package:analyzer/src/dart/ast/ast.dart:6577:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #9      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #10     BlockImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2034:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #11     ResolverVisitor.visitBlock (package:analyzer/src/generated/resolver.dart:1930:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #12     BlockImpl.accept (package:analyzer/src/dart/ast/ast.dart:2030:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #13     BlockFunctionBodyImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:1990:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #14     ResolverVisitor.visitBlockFunctionBody (package:analyzer/src/generated/resolver.dart:1942:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #15     BlockFunctionBodyImpl.resolve (package:analyzer/src/dart/ast/ast.dart:1986:16)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #16     ResolverVisitor.visitMethodDeclaration (package:analyzer/src/generated/resolver.dart:3069:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #17     MethodDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:12291:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #18     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #19     ClassDeclarationImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:2947:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #20     ResolverVisitor.visitClassDeclaration (package:analyzer/src/generated/resolver.dart:2026:12)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #21     ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #22     ResolverVisitor.visitCompilationUnit (package:analyzer/src/generated/resolver.dart:2075:25)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #23     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #24     LibraryAnalyzer._resolveFile (package:analyzer/src/dart/analysis/library_analyzer.dart:893:10)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #25     LibraryAnalyzer._parseAndResolve (package:analyzer/src/dart/analysis/library_analyzer.dart:692:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #26     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:122:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #27     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #28     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:121:17)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #29     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #30     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #31     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #32     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #33     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #34     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #35     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #36     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #37     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 #38     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-15T17:45:57.634071
+The request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setPriorityFiles failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request analysis.setSubscriptions failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request edit.getFixes failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
+The request edit.getAssists failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+The plugin google_sign_in was not found in the package config at C:\Users\davi5\OneDrive\Desktop\Cinebox. Make sure to run `pub get` first.
+at:
+#0      CustomLintProject.parse.<anonymous closure> (package:custom_lint/src/workspace.dart:948:11)
+#1      MappedIterator.moveNext (dart:_internal/iterable.dart:420:20)
+#2      Future.wait (dart:async/future.dart:523:26)
+#3      CustomLintProject.parse (package:custom_lint/src/workspace.dart:940:34)
+<asynchronous suspension>
+#4      Future.wait.<anonymous closure> (dart:async/future.dart:525:21)
+<asynchronous suspension>
+#5      CustomLintWorkspace.fromContextRoots (package:custom_lint/src/workspace.dart:515:22)
+<asynchronous suspension>
+#6      SocketCustomLintServerToClientChannel.create (package:custom_lint/src/v2/server_to_client_channel.dart:54:23)
+<asynchronous suspension>
+#7      CustomLintServer._maybeSpawnCustomLintPlugin (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:362:23)
+<asynchronous suspension>
+#8      CustomLintServer._handleAnalysisSetContextRoots.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:343:9)
+<asynchronous suspension>
+#9      PendingOperation.run (package:custom_lint/src/async_operation.dart:22:14)
+<asynchronous suspension>
+#10     CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175:22)
+<asynchronous suspension>
+
